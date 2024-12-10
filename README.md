@@ -1,6 +1,7 @@
 # 🌌 Welcome to My World 🌙  
 **Exploring the Future of AI and Machine Learning**  
-![Banner Image](https://github.com/user-attachments/assets/ea0d286b-432a-41d5-8625-a8c890ed1f70)
+
+![Banner Image](https://github.com/user-attachments/assets/25aedf06-cceb-4395-b3cc-4169f4096d41)
 
 ---
 
